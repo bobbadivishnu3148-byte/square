@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Haven",
+  "description": "Authentic, cluster-verified small-scale handicrafts, Etikoppaka toys, pot art and pure handloom sarees delivered directly from Andhra's artisan cooperatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
